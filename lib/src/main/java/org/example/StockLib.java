@@ -3,8 +3,8 @@
  */
 package org.example;
 
-public class Library {
-    public boolean someLibraryMethod() {
+public class StockLib {
+    public boolean importantMethod() {
         return true;
     }
 }
